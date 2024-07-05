@@ -1,2 +1,4 @@
 This is the chapter 2 of the story that we are currently writting 
 Inorder to learn the git version control
+
+And this is the modification of the code that i am going to write in diff branch
